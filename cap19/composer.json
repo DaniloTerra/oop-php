@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "monolog/monolog": "^1.22"
+    }
+}
